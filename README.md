@@ -45,7 +45,7 @@ xxd suspect.jpg | head
 java -jar StegExpose.jar suspect.jpg
 ```
 ## OUTPUT:
-List of Images with Steganography Detection Scores and File Signature Details
+![WhatsApp Image 2025-09-27 at 14 27 39_f2b90202](https://github.com/user-attachments/assets/e39411ed-6990-41a7-a306-f08e8a608d40)
 
 ## RESULT:
 Hidden data was successfully detected and file signatures were analyzed for irregularities.
