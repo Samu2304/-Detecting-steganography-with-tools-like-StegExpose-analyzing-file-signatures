@@ -45,7 +45,7 @@ xxd suspect.jpg | head
 java -jar StegExpose.jar suspect.jpg
 ```
 ## OUTPUT:
-![WhatsApp Image 2025-09-27 at 14 27 39_f2b90202](https://github.com/user-attachments/assets/7ed098d2-3347-4563-a446-bb8228c0033a)
+<img width="957" height="602" alt="image" src="https://github.com/user-attachments/assets/d3b4b6f7-ee1e-4648-a534-80e5a651056a" />
 
 ## RESULT:
 Hidden data was successfully detected and file signatures were analyzed for irregularities.
